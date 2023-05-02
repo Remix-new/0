@@ -1,24 +1,18 @@
 🍒  试看,#genre#
-CCTV-1 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
-CCTV-2 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
-CCTV-3 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
-CCTV-4 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
-CCTV-5 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
-CCTV-5+ 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
-CCTV-6 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
-CCTV-7 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
-CCTV-8 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
-CCTV-9 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
-CCTV-10 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
-CCTV-11 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
-CCTV-12 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
-CCTV-13 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
-CCTV-14 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
-CCTV-15 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
-CCTV-16 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
-CCTV-16-4K,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8
-CCTV-17 高清,http://hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
+CCTV-1 高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV-2 高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV-3 高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV-4 高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV-5 高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV5+ 高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV-6 高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV-7 高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV-8 高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
 
-IPTV高清院线高清,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000009/index.m3u8
-IPTV高清院线高清,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
-IPTV古装剧场高清,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000010/index.m3u8
+🚄  试看须知,#genre#
+本仅为试看,http://xcm13.f3322.net:4000/udp/239.93.1.178:5140
+如需购买,http://123.51.230.64:18543/.m3u8
+请联系作者,http://123.51.230.64:18546/.m3u8
+微信,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+wangj021588,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+或者diyromss,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
